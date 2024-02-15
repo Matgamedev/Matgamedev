@@ -2,7 +2,7 @@
 - 👀 I’m interested in
         - Making games and trying to keep track of it all.
 - 🌱 I’m currently learning
-        - Ruby, Dragonruby, GDevelop
+        - Ruby, Dragonruby, GDevelop, Defold
 - 💞️ I’m looking to collaborate on
         - anything that will have me learn to code better. 
 - 📫 How to reach me ... 
